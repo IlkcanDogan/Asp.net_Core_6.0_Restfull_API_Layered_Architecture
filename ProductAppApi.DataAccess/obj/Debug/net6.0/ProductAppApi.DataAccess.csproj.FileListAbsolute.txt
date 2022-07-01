@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.DataAccess\bin\Debug\net6.0\ProductAppApi.DataAccess.deps.json
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.DataAccess\bin\Debug\net6.0\ProductAppApi.DataAccess.dll
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.DataAccess\bin\Debug\net6.0\ProductAppApi.DataAccess.pdb
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.DataAccess\bin\Debug\net6.0\ProductAppApi.Entities.dll
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.DataAccess\bin\Debug\net6.0\ProductAppApi.Entities.pdb
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.DataAccess\obj\Debug\net6.0\ProductAppApi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.DataAccess\obj\Debug\net6.0\ProductAppApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.DataAccess\obj\Debug\net6.0\ProductAppApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.DataAccess\obj\Debug\net6.0\ProductAppApi.DataAccess.AssemblyInfo.cs
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.DataAccess\obj\Debug\net6.0\ProductAppApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.DataAccess\obj\Debug\net6.0\ProductAppApi.DataAccess.csproj.CopyComplete
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.DataAccess\obj\Debug\net6.0\ProductAppApi.DataAccess.dll
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.DataAccess\obj\Debug\net6.0\refint\ProductAppApi.DataAccess.dll
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.DataAccess\obj\Debug\net6.0\ProductAppApi.DataAccess.pdb
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.DataAccess\obj\Debug\net6.0\ref\ProductAppApi.DataAccess.dll

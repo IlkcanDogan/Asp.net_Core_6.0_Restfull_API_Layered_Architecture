@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Business\bin\Debug\net6.0\ProductAppApi.Business.deps.json
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Business\bin\Debug\net6.0\ProductAppApi.Business.dll
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Business\bin\Debug\net6.0\ProductAppApi.Business.pdb
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Business\bin\Debug\net6.0\ProductAppApi.DataAccess.dll
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Business\bin\Debug\net6.0\ProductAppApi.Entities.dll
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Business\bin\Debug\net6.0\ProductAppApi.DataAccess.pdb
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Business\bin\Debug\net6.0\ProductAppApi.Entities.pdb
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Business\obj\Debug\net6.0\ProductAppApi.Business.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Business\obj\Debug\net6.0\ProductAppApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Business\obj\Debug\net6.0\ProductAppApi.Business.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Business\obj\Debug\net6.0\ProductAppApi.Business.AssemblyInfo.cs
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Business\obj\Debug\net6.0\ProductAppApi.Business.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Business\obj\Debug\net6.0\ProductAppApi.Business.csproj.CopyComplete
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Business\obj\Debug\net6.0\ProductAppApi.Business.dll
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Business\obj\Debug\net6.0\refint\ProductAppApi.Business.dll
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Business\obj\Debug\net6.0\ProductAppApi.Business.pdb
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Business\obj\Debug\net6.0\ref\ProductAppApi.Business.dll

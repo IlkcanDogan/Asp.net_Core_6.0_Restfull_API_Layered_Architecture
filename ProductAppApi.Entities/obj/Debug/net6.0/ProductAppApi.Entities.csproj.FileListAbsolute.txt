@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Entities\bin\Debug\net6.0\ProductAppApi.Entities.deps.json
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Entities\bin\Debug\net6.0\ProductAppApi.Entities.dll
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Entities\bin\Debug\net6.0\ProductAppApi.Entities.pdb
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Entities\obj\Debug\net6.0\ProductAppApi.Entities.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Entities\obj\Debug\net6.0\ProductAppApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Entities\obj\Debug\net6.0\ProductAppApi.Entities.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Entities\obj\Debug\net6.0\ProductAppApi.Entities.AssemblyInfo.cs
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Entities\obj\Debug\net6.0\ProductAppApi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Entities\obj\Debug\net6.0\ProductAppApi.Entities.dll
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Entities\obj\Debug\net6.0\refint\ProductAppApi.Entities.dll
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Entities\obj\Debug\net6.0\ProductAppApi.Entities.pdb
+C:\Users\admin\source\repos\ProductAppApi\ProductAppApi.Entities\obj\Debug\net6.0\ref\ProductAppApi.Entities.dll

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ProductAppApi.API",
+    "\\ProductAppApi.API\\Controllers",
+    "\\ProductAppApi.DataAccess",
+    "\\ProductAppApi.DataAccess\\Concreate",
+    "\\ProductAppApi.Entities"
+  ],
+  "SelectedNode": "\\ProductAppApi.DataAccess\\Concreate\\ProductRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
